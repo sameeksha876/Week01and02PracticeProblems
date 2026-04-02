@@ -1,3 +1,5 @@
+package Week01_02;
+
 import java.util.*;
 
 
@@ -62,7 +64,7 @@ class TokenBucket {
 public class Q6 {
 
 
-    // clientId -> TokenBucket
+    // clientId -> Week01_02.TokenBucket
     private HashMap<String, TokenBucket> clients = new HashMap<>();
 
 

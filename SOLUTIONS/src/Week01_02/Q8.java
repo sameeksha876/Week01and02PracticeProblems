@@ -1,4 +1,4 @@
-import java.util.*;
+package Week01_02;
 
 
 class ParkingSpot {
